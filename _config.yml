@@ -1,0 +1,12 @@
+---
+title: The Great Arch1tect.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+theme: jekyll-theme-hacker
+description: test
